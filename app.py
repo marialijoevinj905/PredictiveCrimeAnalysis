@@ -1,5 +1,3 @@
-# streamlit run app.py --server.mapUploadSize=1024
-
 import streamlit as st
 import streamlit.components.v1 as components 
 import pandas as pd
@@ -1419,3 +1417,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# streamlit run app.py --server.mapUploadSize=1024
